@@ -1,2 +1,21 @@
 
-// Write your code here
+// function multiply(num1, num2){
+//     // let num1 = 31
+//     // let num2 = 2
+//     return (num1 * num2)
+//     // 31 * 2
+// }
+
+let num1 = 31
+let num2 = 2
+
+let multiply = num1 * num2
+
+let random = Math.floor((Math.random() * 10))
+
+let num3 = 64
+let num4 = 12
+
+let mod = num3 % num4
+
+let max = Math.max(2,12,20,3)
